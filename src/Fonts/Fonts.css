@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Relative;
+  src: url(./Relative-Bold.ttf);
+}
+@font-face {
+  font-family: Relative;
+  src: url(./Relative-Medium.ttf);
+}
+
+.relative-font-medium {
+  font-family: Relative;
+}
+.relative-font-bold {
+  font-family: Relative;
+}
